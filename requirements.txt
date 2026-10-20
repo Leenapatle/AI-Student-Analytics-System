@@ -1,0 +1,9 @@
+opencv-python
+numpy
+pandas
+scikit-learn
+mediapipe
+librosa
+sounddevice
+matplotlib
+streamlit
